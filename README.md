@@ -1,3 +1,10 @@
+# Ｄｉｓｔｒｏｓ　ｉｎ　Ｎｅｏｎ
+
+
+## Description
+A collection of transparent images of Linux Distribution logos.
+
+
 <img src="https://github.com/max2000warlord/distros-in-neon/blob/main/Previews/arch.png" alt="Arch" width="400"><img src="https://github.com/max2000warlord/distros-in-neon/blob/main/Previews/debian.png" alt="Debian" width="400">
 
 <img src="https://github.com/max2000warlord/distros-in-neon/blob/main/Previews/gentoo.png" alt="Gentoo" width="400"><img src="https://github.com/max2000warlord/distros-in-neon/blob/main/Previews/nixos.png" alt="NixOS" width="400">
