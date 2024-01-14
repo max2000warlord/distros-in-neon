@@ -2,7 +2,7 @@
 
 
 ## Description
-A collection of transparent images of Linux Distribution logos.
+A collection of transparent images of Linux Distribution logos. Rice your fetch.
 
 
 <img src="https://github.com/max2000warlord/distros-in-neon/blob/main/Previews/arch.png" alt="Arch" width="400"><img src="https://github.com/max2000warlord/distros-in-neon/blob/main/Previews/debian.png" alt="Debian" width="400">
