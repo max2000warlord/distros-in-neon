@@ -1,0 +1,6 @@
+variables:
+  GITLAB_README: "README-GL.md"
+
+before_script:
+  - mv $GITLAB_README README.md
+
