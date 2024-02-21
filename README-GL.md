@@ -2,7 +2,7 @@
 
 
 ## Description
-A collection of transparent images of Linux Distribution logos. Rice your fetch.
+A collection of transparent images of Linux Distribution logos. Rice your fetch today!
 
 
 <img src="https://gitlab.com/max2000warlord/distros-in-neon/raw/main/Previews/arch.png" alt="Arch" width="400"><img src="https://gitlab.com/max2000warlord/distros-in-neon/raw/main/Previews/debian.png" alt="Debian" width="400">
