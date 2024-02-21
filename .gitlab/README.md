@@ -16,4 +16,3 @@ A collection of transparent images of Linux Distribution logos. Rice your fetch 
 <img src="https://gitlab.com/max2000warlord/distros-in-neon/raw/main/Previews/manjaro.png" alt="Manjaro" width="400"><img src="https://gitlab.com/max2000warlord/distros-in-neon/raw/main/Previews/opensuse.png" alt="OpenSUSE" width="400">
 
 <img src="https://gitlab.com/max2000warlord/distros-in-neon/raw/main/Previews/linux-mint.png" alt="Linux Mint" width="400">
-
