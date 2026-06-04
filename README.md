@@ -8,7 +8,7 @@ A collection of transparent images of Linux Distribution logos. Rice your fetch 
 | ---------------------------------------- | --------------------------------------- |
 | ![Arch](./Previews/arch.png)             | ![Debian](./Previews/debian.png)        |
 | ![Gentoo](./Previews/gentoo.png)         | ![NixOS](./Previews/nixos.png)          |
-| ![Void](./Previews/void.png)             | ![DebianBSD](./Previews/debian-bsd.png) |
+| ![Void](./Previews/void.png)             | ![Cachy](./Previews/cachyos.png)        |
 | ![Fedora](./Previews/fedora.png)         | ![Pop!_OS](./Previews/pop-os.png)       |
 | ![Manjaro](./Previews/manjaro.png)       | ![OpenSUSE](./Previews/opensuse.png)    |
-| ![Linux Mint](./Previews/linux-mint.png) | ![Cachy](./Previews/cachyos.png)        |
+| ![Linux Mint](./Previews/linux-mint.png) | ![DebianBSD](./Previews/debian-bsd.png) |
