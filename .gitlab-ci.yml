@@ -1,8 +1,0 @@
-variables:
-  GITLAB_README: "README-GL.md"
-  GITHUB_README: "README.md"
-
-before_script:
-  - rm $GITHUB_README
-  - mv $GITLAB_README README.md
-
